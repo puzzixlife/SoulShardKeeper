@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: SoulShardKeeper
+## Title-zhCN: 灵魂碎片管家
+## Notes: Warlock soul shard manager: auto-destroys excess shards and adds a draggable DaylightUI-style orb.
+## Notes-zhCN: 术士灵魂碎片管家：DaylightUI 风格术士头像悬浮球，超过上限自动销毁。
+## Author: SoulShardKeeper
+## Version: 1.1.0
+## SavedVariables: SoulShardKeeperDB
+## OptionalDeps: DaylightUI
+## IconTexture: Interface\Icons\INV_Misc_Gem_Amethyst_02
+## X-Category: Bags & Inventory
+## X-Keywords: soul shard, warlock, 灵魂碎片, 术士, DaylightUI
+## AddonCompartmentFunc: SoulShardKeeper_OnCompartmentClick
+
+Localization.lua
+Core.lua
+UI.lua
